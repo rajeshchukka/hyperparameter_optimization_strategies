@@ -27,4 +27,4 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
 ## Credits
 
-Credits for this code goes to [David Li-Bland](https://github.com/davidlibland). I've merely created a wrapper to get people started.
+Credits for this code goes to [David Li-Bland](https://github.com/davidlibland), Siraj Raval. I've merely created and tested to get familier with myself.
