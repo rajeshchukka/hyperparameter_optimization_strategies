@@ -1,9 +1,6 @@
 # hyperparameter_optimization_strategies
 This is the Code for "How Do I Find the Best Hyperparameters?- The Math of Intelligence #7" By Siraj Raval on Youtube
 
-# Coding Challenge - Due Date - Thursday, August 3rd, 2017
-
-Use Bayesian Optimization to find the optimal learning rate for a linear regression model. You can use any dataset you like (examples [here](https://www.kaggle.com/datasets)) and you can use any "bayesian optimization library" you like as well. Bonus points are given if you are able to perform Bayesian optimization without using any libraries. Good luck!
 
 ## Overview
 
@@ -27,4 +24,4 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html).
 
 ## Credits
 
-Credits for this code goes to [David Li-Bland](https://github.com/davidlibland), Siraj Raval. I've merely created and tested to get familier with myself.
+Credits for this code goes to [David Li-Bland](https://github.com/davidlibland)and Siraj Raval. I've merely created a wrapper around the code and tested to get familiarize with myself.
